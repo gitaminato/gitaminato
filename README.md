@@ -4,7 +4,7 @@
 
 Sou Bacharel em Administração e já trabalhei com Marketing e Design Digital, porém decidi migrar de carreira e aprender programação voltada para design.
 
-Meu objetivo é, além de acompanhar as mudanças de mercado e atualizar meu conhecimento, me tornar apta a entregar projetos visuais que permitem interação e criação de experiências únicas, eficientes e encantadoras.
+Meu objetivo é, além de acompanhar as mudanças de mercado e atualizar meu conhecimento, me tornar apta a entregar projetos que permitem interação e criação de experiências únicas, eficientes e encantadoras.
 
 - 🌸 Atualmente estou estudando HTML | CSS | JavaScript
 - 💮 No futuro quero colaborar em projetos de Front-End
