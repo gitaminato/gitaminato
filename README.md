@@ -1,12 +1,12 @@
 ### Olá! Me chamo Giovanna Taminato 👋
 
 
-Sou Bacharel em Administração e já trabalhei com Marketing e Design Digital, porém decidi migrar de carreira e aprender programação.
+Sou Bacharel em Administração e já trabalhei com Design Digital, porém decidi migrar de carreira e aprender sobre desenvolvimento front e design UX.
 
 Meu objetivo é, além de acompanhar as mudanças de mercado e atualizar meu conhecimento, me tornar apta a entregar projetos que permitem interação e criação de experiências únicas, eficientes e atrativas.
 
 - 🌸 Atualmente estou estudando HTML | CSS | JavaScript
-- 💮 Objetivo: colaborar em projetos de Front-End
+- 💮 Objetivo: colaborar em projetos interativos e eficientes
 - 🌺 Como me contatar:
 
 ##
