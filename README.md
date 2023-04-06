@@ -1,9 +1,9 @@
 ### Olá! Me chamo Giovanna Taminato 👋
 
 
-Trabalho com design digital desde 2020, porém decidi migrar de carreira e me tornar desenvolvedora front.
+Sou Bacharel em Administração e já trabalhei com Design Digital, porém decidi migrar de carreira e aprender programação voltada para design.
 
-Meu objetivo é, além de acompanhar as mudanças de mercado e atualizar meu conhecimento, me tornar apta a entregar projetos que permitem interação, experiências únicas, eficientes e atrativas.
+Meu objetivo é, além de acompanhar as mudanças de mercado e atualizar meu conhecimento, me tornar apta a entregar projetos que permitem interação e criação de experiências únicas, eficientes e encantadoras.
 
 - 🌸 Atualmente estou estudando HTML | CSS | JavaScript
 - 💮 Objetivo: colaborar em projetos interativos e eficientes
