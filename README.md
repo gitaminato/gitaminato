@@ -3,7 +3,7 @@
 
 Adoro tecnologia e estratégia e desde Abril/23 estou migrando de Designer Social Media para UX/UI.
 
-Meu objetivo é, além de acompanhar as mudanças de mercado e atualizar meus conhecimentos, me tornar apta a entregar projetos Web/App com experiências únicas, eficientes e estratégicas.
+Meu objetivo é, além de acompanhar as mudanças de mercado e atualizar meus conhecimentos, me tornar apta a entregar projetos com experiências eficientes e estratégicas.
 
 - 🌸 Atualmente estou estudando UX/UI e praticando desenvolvimento de telas em HTML | CSS | JavaScript
 - 💮 Objetivo: projetos Web/App
