@@ -1,5 +1,9 @@
 ### Olá! Me chamo Giovanna Taminato 👋
 
+Sempre que possível, faço estudos proativos em programação para entender melhor processos de negócios.
+
+Este espaço é, em essência, minhas anotações e exercícios em linguagens de programação diversas.
+
 - 🌺 Como me contatar:
 
   <a href="https://www.instagram.com/giovannataminato/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
