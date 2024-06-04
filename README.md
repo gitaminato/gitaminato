@@ -2,7 +2,7 @@
 
 Sempre que possível, faço estudos proativos em programação para entender melhor processos de negócios.
 
-Este espaço é, em essência, minhas anotações e exercícios em linguagens de programação diversas.
+Este espaço contempla, em essência, minhas anotações e exercícios sobre linguagens de programação diversas.
 
 - 🌺 Como me contatar:
 
