@@ -4,7 +4,7 @@ Sempre que possível, faço estudos proativos em programação para entender mel
 
 Este espaço contempla, em essência, minhas anotações e exercícios sobre linguagens de programação diversas.
 
-- 🌺 Como me contatar:
+- Como me contatar:
 
   <a href="https://www.instagram.com/giovannataminato/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovanna-taminato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
